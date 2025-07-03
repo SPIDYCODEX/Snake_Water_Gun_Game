@@ -26,3 +26,6 @@ A Python console game where you play Snake-Water-Gun against the computer.
 
 ```bash
 python main.py
+## AUTHOR-
+SPIDYCODEX
+Learning and Building one step from regrets.
